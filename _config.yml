@@ -4,8 +4,8 @@ title                    : "Faceia's Homepage"
 title_separator          : "-"
 name                     : &name "Faceia (Xinmeng) Hou"
 description              : &description "personal description"
-url                      : https://cancms.github.io/xinmeng/
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : https://cancms.github.io
+baseurl                  : "/xinmeng" # the subpath of your site, e.g. "/blog"
 repository               : "Github/Paparare"
 
 # Site Author
