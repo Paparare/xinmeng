@@ -23,8 +23,11 @@ I graduated with a Master of Arts in Applied Linguistics from Columbia Universit
   - [May 2024] Presented a systematic review on conversational AI for language learning at CALICO 2024.
 
 ## Selected Research Projects
-  - CodeMate: AI-Powered Higher Education (http://apex.sjtu.edu.cn/TBTcodemate/)
-  - Open R: Advanced Reasoning with Large Language Models (https://github.com/openreasoner/openr)
+  - CodeMate: [AI-Powered Higher Education](http://apex.sjtu.edu.cn/TBTcodemate/)
+    <p><img src="{{ site.baseurl }}/images/researches/code_mate.png"  style=""></p>    
+
+  - Open R: [Advanced Reasoning with Large Language Models](https://github.com/openreasoner/openr)
+    <p class="home-openr-img"><img src="{{ site.baseurl }}/images/researches/openr.png"  style=""></p> 
 
 ## Competitions
   1. LLM Prompt Recovery

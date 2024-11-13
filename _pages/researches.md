@@ -15,6 +15,7 @@ author_profile: true
   - AI Tutoring Platform: Led the development of CodeMate, an AI tutoring platform designed for task-based teaching in C++ courses, promoting personalized learning.
   - Educational Experimentation: Conducted large-scale experiments involving over 1,500 students, collecting data to refine teaching methods and platform functionalities.
   - Learning Pattern Analysis: Researched habitual learning patterns in AI-assisted education, providing insights for broader implementation of CodeMate.
+- <p><img src="{{ site.baseurl }}/images/researches/code_mate.png"  style=""></p> 
 
 
 ### [Open R: Advanced Reasoning with Large Language Models](https://github.com/openreasoner/openr)
@@ -23,6 +24,7 @@ author_profile: true
 - Contributions:
   - Benchmarking Code Reasoning: Created coding datasets and established annotation criteria to enhance benchmarking for code reasoning tasks.
   - PRM Enhancements: Improved the probabilistic roadmap method (PRM) for better training and search algorithm efficiency, enhancing LLM-based reasoning capabilities.
+- <p class="home-openr-img"><img src="{{ site.baseurl }}/images/researches/openr.png"  style=""></p> 
 
 
 ### Textile Vision Project
