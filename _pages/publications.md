@@ -18,7 +18,7 @@ Link coming up EOY
 
 Overview: Introduces a dual-layer embedding mechanism for static and temporal knowledge, utilizing contrastive learning to enhance temporal knowledge graph completion
 
-![](/images/projects/p1.png)
+![]({{ site.baseurl }}/images/projects/p1.png)
 
 
 
@@ -32,7 +32,7 @@ Link coming up EOY
 
 Overview: Focuses on integrating multiple LLM agents into Intelligent Tutoring Systems (ITS) to enhance personalized language education. Introduces criteria for model selection, prompt design, and user studies to validate effectiveness
 
-![](/images/projects/p3.png)
+![]({{ site.baseurl }}/images/projects/p3.png)
 
 
 
@@ -47,7 +47,7 @@ Link coming up EOY
 
 Overview: Proposes a neural transition-based model for Aspect Sentiment Triplet Extraction (ASTE), optimizing sentiment analysis through directed graph construction
 
-![](/images/projects/p4.png)
+![]({{ site.baseurl }}/images/projects/p4.png)
 
 
 
@@ -61,7 +61,7 @@ Accepted at EMNLP 2024 - The 4th International Conference on Natural Language Pr
 
 Overview: Proposes a prescriptive annotation framework to improve toxic language detection, emphasizing the protection of minoritized language varieties and leveraging LLMs for data annotation
 
-![](/images/projects/p2.png)
+![]({{ site.baseurl }}/images/projects/p2.png)
 
 
 
@@ -75,7 +75,7 @@ Accepted at Conference on Language Modeling (COLM 2024).
 
 Overview: Introduces synthetic type-written phonological features to evaluate and improve LLM performance on tasks like toxicity detection and sentiment analysis for African American Language
 
-![](/images/projects/p5.png)
+![]({{ site.baseurl }}/images/projects/p5.png)
 
 
 ### High Accuracy and Low Complexity Lidar Place Recognition Using Unitary Invariant Frobenius Norm

@@ -7,7 +7,7 @@ main:
     pdf:
     code:
     bibtex: 
-    image:  /images/projects/p1.png
+    image:  images/projects/p1.png
     notes:
 
   - title: "Mitigating Biases to Embrace Diversity: A Comprehensive Annotation Benchmark for Toxic Language"
@@ -17,7 +17,7 @@ main:
     pdf:
     code:
     bibtex:
-    image:  /images/projects/p2.png
+    image:  images/projects/p2.png
     notes:
 
   - title: "LanPIP: A Specialized LLM-Empowered Pipeline for Customizable Language Learning"
@@ -27,5 +27,5 @@ main:
     pdf:
     code:
     bibtex:
-    image:  /images/projects/p3.png
+    image:  images/projects/p3.png
     notes:
